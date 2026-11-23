@@ -4,10 +4,6 @@ Seven years ago I created [browser-2020](https://github.com/luruke/browser-2020)
 
 Same rules: a non-exhaustive list of less-known features implemented in browsers **today**. It isn't intended for a technical audience; it wants to be an "I didn't know we could do that in a browser!" list.
 
-Many features aren't in every browser yet. Each entry says where it works. Versions were checked on 23 November 2026, when stable was Chrome 158, Firefox 160 and Safari 27.2.
-
-New this time: a section at the bottom for the things that are **still** hard or impossible.
-
 - [Graphics and 3D](#graphics-and-3d)
 - [Motion and layout](#motion-and-layout)
 - [AI in the browser](#ai-in-the-browser)
