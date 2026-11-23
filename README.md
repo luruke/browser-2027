@@ -15,8 +15,6 @@ New this time: a section at the bottom for the things that are **still** hard or
 - [Windows, capture and system](#windows-capture-and-system)
 - [Apps, identity and navigation](#apps-identity-and-navigation)
 - [Landing soon](#landing-soon-beta-origin-trial-flags)
-- [Gone since 2020](#gone-or-going-since-2020)
-- [Still hard or impossible](#still-hard-or-impossible-in-2027)
 
 ---
 
