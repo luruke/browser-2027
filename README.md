@@ -230,7 +230,7 @@ _Chrome 132/138. Behind a flag on the foldable iPhone (Safari 27.1)._
 ---
 
 ## [Screen Wake Lock](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Wake_Lock_API)
-Stop the screen from dimming or sleeping. (The 2020 list filed this under "Web Locks" by mistake. Sorry.)
+Stop the screen from dimming or sleeping.
 
 _Every engine since March 2025._
 
