@@ -4,7 +4,7 @@ It's almost 2027, and browsers can do amazing stuff. Again.
 
 Seven years ago I created [browser-2020](https://github.com/luruke/browser-2020) and listed things you could do with a browser in 2020. This is the sequel.
 
-Same rules: a non-exhaustive list of less-known features implemented in browsers **today**. It isn't intended for a technical audience; it wants to be an "I didn't know we could do that in a browser!" list.
+Same rules: a non-exhaustive list of less-known features implemented in browsers today. It isn't intended for a technical audience; it wants to be an "I didn't know we could do that in a browser!" list.
 
 - [Graphics and 3D](#graphics-and-3d)
 - [Motion and layout](#motion-and-layout)
