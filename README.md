@@ -532,7 +532,7 @@ _Behind a flag from Chrome 156. No other engine has committed._
 
 ---
 
-## [HDR for 2D canvas and richer canvas text](https://chromestatus.com/feature/5077164932333568)
+## [HDR for 2D canvas](https://chromestatus.com/feature/5077164932333568) and [richer canvas text](https://chromestatus.com/feature/5075532483657728)
 HDR tone mapping for the 2D canvas, and text metrics detailed enough to animate and select individual glyph clusters.
 
 | <img src="https://cdn.jsdelivr.net/gh/alrra/browser-logos@75.0.1/src/chrome/chrome_32x32.png" width="16" height="16" alt=""> Chrome | <img src="https://cdn.jsdelivr.net/gh/alrra/browser-logos@75.0.1/src/safari/safari_32x32.png" width="16" height="16" alt=""> Safari | <img src="https://cdn.jsdelivr.net/gh/alrra/browser-logos@75.0.1/src/firefox/firefox_32x32.png" width="16" height="16" alt=""> Firefox |
